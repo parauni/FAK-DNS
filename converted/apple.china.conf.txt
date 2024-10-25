@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]https://dns.alidns.com/dns-query 8.8.8.8
 [/dd-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query 8.8.8.8
 [/dejavu.apple.com/]https://dns.alidns.com/dns-query 8.8.8.8
+[/devimages-cdn.apple.com/]https://dns.alidns.com/dns-query 8.8.8.8
 [/devstreaming-cdn.apple.com/]https://dns.alidns.com/dns-query 8.8.8.8
 [/download.developer.apple.com/]https://dns.alidns.com/dns-query 8.8.8.8
 [/experiments.apple.com/]https://dns.alidns.com/dns-query 8.8.8.8
