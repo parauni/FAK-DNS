@@ -7,9 +7,6 @@
 [/adcdownload.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/amp-api-updates.apps.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/amp-api.media.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/api-p-ap-c.smoot.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/api-p-ap-d.smoot.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/api-p-ap-e.smoot.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/app-site-association.cdn-apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/appldnld.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/appldnld.g.aaplimg.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -61,7 +58,6 @@
 [/gsp12-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp13-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/gsp4-cn.ls.apple.com.edgekey.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp4-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp5-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp85-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -71,7 +67,6 @@
 [/gspe19-cn.ls-apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe19-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe21-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/gspe21.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe35-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe79-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/guzzoni-apple-com.v.aaplimg.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -80,9 +75,7 @@
 [/iadsdk.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/icloud-cdn.icloud.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/icloud.cdn-apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/images.apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/images.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/init-kt.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/init-p01md-lb.push-apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/init-p01md.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -169,6 +162,5 @@
 [/weather-map2.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/weatherkit.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/www.apple.com.edgekey.net.globalredir.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/www.apple.com.edgekey.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/www.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xp.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
