@@ -27,6 +27,7 @@
 [/cds.apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cds.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cdsassets.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/certs.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cl1-cdn.origin-apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cl1.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cl2-cn.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
