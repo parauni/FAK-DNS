@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/itunes.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/itunesconnect.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/mensura.cdn-apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/mesu-cdn.apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/mesu-china.apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/mesu.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
