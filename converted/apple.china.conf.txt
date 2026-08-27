@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp5-cn.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gsp85-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/gspe11-2-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe19-2-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gspe19-cn-ssl.ls.apple.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
