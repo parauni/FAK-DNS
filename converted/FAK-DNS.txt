@@ -396,7 +396,6 @@
 [/020ym.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/020zp.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/020ztc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/021-116114.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/021.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/021.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/021.xn--5tzm5g/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -675,7 +674,6 @@
 [/0515kf.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/0515smw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/0515yc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/0515yy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/0516k.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/0517.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/0517cw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -4565,7 +4563,6 @@
 [/3y1.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/3y7h.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/3yakj.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/3ygww.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/3yoqu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/3yt.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/3yt.la/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -7992,7 +7989,6 @@
 [/81677.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/816798.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/8169.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/817398.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/81761.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/818.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/81813.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -8553,7 +8549,6 @@
 [/91360.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/91378.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/913pc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/913vr.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/913you.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/9149df3441020.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/915.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -9383,6 +9378,7 @@
 [/9fav.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/9fb8d5b6bff66a4d.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/9fbank.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/9fe06a.fyi/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/9fe3e7d4c10311.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/9fh5.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/9first.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -9650,7 +9646,6 @@
 [/abbbio.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/abbisko.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/abbooa.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/abbreviat.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/abbyschoice.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/abbyychina.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/abc-ca.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -11285,7 +11280,6 @@
 [/alidnsv122.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/alidnsv4.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/alidnsv5.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/aliedge.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/aliensidea.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/alientek.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/aliexpress-media.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -11370,7 +11364,6 @@
 [/aliwork.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/aliwx.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/alixiaomi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/alixiaoyouhui.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/alixixi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/alixox.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/aliyiyao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -14220,7 +14213,6 @@
 [/baofeng365.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/baofoo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/baofoo.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/baofu.art/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/baofu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/baofu.info/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/baofull.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -15330,7 +15322,6 @@
 [/bhidi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bhjcsc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bhjh168.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/bhjinghao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bhjjj360.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bhjuxian.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bhkyxy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -16296,7 +16287,6 @@
 [/bjppa.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bjpryk.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bjqh.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/bjqhgjj.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bjqichezl.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bjqingyang.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bjqlg.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -17206,7 +17196,6 @@
 [/bpqwxsh.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bpsemi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bpteach.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/bpuvuun0xg.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bpxxfw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bpxxvo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bq04.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -17724,7 +17713,6 @@
 [/byclean.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/byd.auto/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/byd.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/byd119.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bydauto.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bydglobal.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/bydhaiyang.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -18063,7 +18051,6 @@
 [/c558624c4b6f5f42.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/c578801be1009.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/c57e6607c10292.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/c57fbfc585.skin/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/c5a13eec21010.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/c5b27c7c01019.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/c5b6bpoq7q.world/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -20692,7 +20679,6 @@
 [/chihao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/chihealbio.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/chiheba.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/chiheshan.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/chihkao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/chihm.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/chiji-h5.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -25230,7 +25216,6 @@
 [/cqtkjj.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cqtkyy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cqtl.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/cqtlskj.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cqtn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cqtnfs.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cqtqzx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -25970,7 +25955,6 @@
 [/cthuwork.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cti-cert.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ctibet.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/ctic-lab.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ctic-labs.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ctiea.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ctiforum.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -26349,7 +26333,6 @@
 [/cydiaa.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cydiakk.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cydow.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/cyegushi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cyfeng.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cyfengchao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/cyfyydyfy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -26948,7 +26931,6 @@
 [/dalao.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dalaosz.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/daleigroup.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/dalelingtea.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dali-group.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dalian-chuanpiao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dalianair-china.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -27284,7 +27266,6 @@
 [/dataodu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dataojo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dataoke.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/datarelab.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/datarj.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/datasheet5.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/datastoragesummit.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -27690,7 +27671,6 @@
 [/ddxhx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ddxhyl.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ddxq.mobi/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/ddxs.vip/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ddxsku.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ddxstxt8.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ddyjapp.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -28662,7 +28642,6 @@
 [/dingdone.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dingdongcloud.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dingdongebusiness.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/dingdongmao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dingdongxiaoqu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dingdx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dingefactory.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -28783,6 +28762,7 @@
 [/ditiezu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ditiezu.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ditrit.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/dittocdn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ditu.live.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dituhui.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dituw.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -29131,6 +29111,7 @@
 [/dns-waf.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dns.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dns.la/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/dns.lat/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dns.pub/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dns002.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dns0755.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -30585,7 +30566,6 @@
 [/dyswl.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dytmgm.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dytss.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/dytt2028.cc/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dytt789.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dytt7899.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/dytt8.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -34652,7 +34632,6 @@
 [/fnnas.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fnnas.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fnnsh.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/fnnspa.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fnos.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fnrcw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fnrczp.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -35463,7 +35442,6 @@
 [/fuxiaoli.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fuxila.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fuxinbank.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/fuxinews.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fuxinghf.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fuxingtech.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/fuxingwang.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -35803,7 +35781,6 @@
 [/g1080.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/g12e.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/g12e.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/g15wt3ci68.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/g188.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/g1c5.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/g1d.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -36493,7 +36470,6 @@
 [/gdgrsw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gdguangdong.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gdguozhi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/gdgwyw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gdgxw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gdgxxbw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gdgzhengzhou.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -38288,7 +38264,6 @@
 [/googleplus.party/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/googleppy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/googlevoice.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/googley8rb.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/googleyixia.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/googoc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/googol-power.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -38534,6 +38509,7 @@
 [/graueneko.xyz/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gravity-engine.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/graz.quest/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/grboi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/grcbank.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/grchina.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/great-future.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -40055,7 +40031,6 @@
 [/gxhtjx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gxhtte.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gxhuabao.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/gxhuachi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gxhuachuang.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gxhuadu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/gxhuaen.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -42728,7 +42703,6 @@
 [/haomenke.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/haomifi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/haomingguan.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/haommn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/haomo-tech.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/haomove.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/haomzl.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -50773,7 +50747,6 @@
 [/iquickfish.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/iqujing.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/iqunix.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/iqunix.store/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/iqupdate.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/iqxedu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/ir56.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -54261,7 +54234,6 @@
 [/johnlz.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/johnmedia.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/johouse.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/joi09110pt.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/joiest.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/joinchitchat.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/joindata.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -57015,7 +56987,6 @@
 [/kilamanbo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/kililife.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/killdb.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/kilo1kw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/kiloai.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/kimberley-technology.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/kimderlite.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -58842,7 +58813,6 @@
 [/laravel-admin.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/laravelacademy.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/larenla.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/large.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lark-passport-qa-sg.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/larkapp.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/larkcloud.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -60065,7 +60035,6 @@
 [/lighte-tech.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lightgx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lighthg.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/lighting-china.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lightingchina.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lightinit.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lightky.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -60094,7 +60063,6 @@
 [/lihua.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lihuadonghua.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lihuamuye.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/lihuashouji.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lihuasoft.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lihui.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/lihuia.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -63952,7 +63920,6 @@
 [/mekedoo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/meldingcloud.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/melecode.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/melizhi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/mellowactivy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/mellowgroups.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/melon-eptc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -67996,7 +67963,6 @@
 [/njkskn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/njkzgjj.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/njlanwu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/njletop.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/njlg56.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/njlhzn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/njlianyang.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -69740,7 +69706,6 @@
 [/onkocares.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/online-cmcc.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/online-edu.org/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/online-phaidon.shop/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/onlinecn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/onlineding.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/onlinedown.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -70559,7 +70524,6 @@
 [/pangdago.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pangdasc.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pangdly.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/panggugu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/panghuasheng.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pangjun.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pangku.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -71235,7 +71199,6 @@
 [/php168.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/php318.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/phpbbchina.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/phpcashshare.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/phpchina.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/phpcom.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/phpcomposer.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -71896,7 +71859,6 @@
 [/portal.naea1.uds.lenovo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/portal.uds.lenovo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/portalcdn.cdnetworks.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/portcontainer.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/porthebei.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/portjs.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/portjs.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -72560,6 +72522,7 @@
 [/pymh.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pyneo.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pyou.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/pyquan.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pyrc.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pyshszh.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/pystar.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -79622,6 +79585,7 @@
 [/shengsci.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shengshizhicheng.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shengtai.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/shengtai.cyou/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shengtaigroup.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shengtian.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shengtiangames.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -80612,7 +80576,6 @@
 [/shuangxingseed.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shuangxinhui.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shuangxiumall.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/shuangyanjie.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shuangyingmenye.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shuangyingsx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/shuangyuejn.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -86393,7 +86356,6 @@
 [/teambition.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/teambition.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/teambitionapis.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/teamlogs.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/teamminus.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/teamshub.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/teamtop.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -86779,6 +86741,7 @@
 [/tenganxinxi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tengbai-it.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tengbo.cc/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/tengcanxi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tengchangjiancai.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tengdatumu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tengdawl.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -87170,7 +87133,6 @@
 [/thmzedu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/thny.cc/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/thojmhw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/thomanmustore.shop/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/thomasschools.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/thoreco.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/thorn.red/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -89756,7 +89718,6 @@
 [/tyust.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tyuyan.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tyuyan.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/tywbw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tywh.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tywheels.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/tywx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -94824,7 +94785,6 @@
 [/woc.space/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/woc88.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/wochacha.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/wochaw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/woda.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/wodasi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/wodavip.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -96828,6 +96788,7 @@
 [/xhjyxxw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xhlcsl.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xhlsgs.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
+[/xhlylx.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xhma.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xhmedia.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xhmwxy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -97686,7 +97647,6 @@
 [/xiguaapp.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xiguabook.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xiguaji.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/xiguang.xyz/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xiguaplayer.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xiguashipin.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xiguavideo.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -98846,7 +98806,6 @@
 [/xmkanshu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xmkj.beer/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xml-journal.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/xmldz4.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xmlhifi.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xmlib.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xmlvbarcode.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -99132,7 +99091,6 @@
 [/xn--w9qr0k.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xn--w9qy23cc6adz7d.net/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xn--wbsy6nk4mnpa575i6fy.xn--3ds443g/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/xn--wbsz85a2a.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xn--wlq49r6tr7zal0u.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xn--wxtr44c.live/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xn--xcrv5deweeznlnez29a.xn--3ds443g/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -99642,7 +99600,6 @@
 [/xueshu.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xueshu5.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xueshuda.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/xueshujia.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xueshut.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xueshuwenhai.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/xuesongshuwood.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
@@ -108151,7 +108108,6 @@
 [/zjhwgroup.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/zjhx520.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/zjhxgf.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
-[/zjhxw.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/zjhyrcb.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/zjhzgy.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
 [/zjhzjt.com/]h3://dns.alidns.com/dns-query udp://218.201.96.131:53
